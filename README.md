@@ -10,3 +10,5 @@ To do that I implement simples algorithms like DFS and BFS. Pacman know only the
 On this maze, pacman has explore almost all of the maze to find out the food. The color represent the depth of the node during DFS, if it remains black this mean the node has never been explored
 
 ![Maze](./Images/maze.png)
+
+The function I modified are mostly in the search/search.py file
